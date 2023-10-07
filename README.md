@@ -1,6 +1,8 @@
 # FileCloneX
 # FILE Cloning Tool 🔥
-# FREE
+# FREE & Working 💚
+
+# Command 👇
 
 pkg update && upgrade
 
